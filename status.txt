@@ -1,0 +1,1 @@
+2026-11-06 10:11:12 sitT3b DEBLUE saved out/stage2/dalmatian_sitT3b/tgt_db.glb images 1 px 1481823|KEEPMAIN tripo_node_bca12a7d-65fb-433c-bb01-8daa012e00e2 components 1 sizes [702290]|KEEPMAIN saved out/stage2/dalmatian_sitT3b/tgt_dbk.glb|EIGHT out/eye/eight/sitT3bdbk_sheet.jpg|
