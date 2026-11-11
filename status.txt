@@ -1,0 +1,1 @@
+2026-11-12 01:49:12 djkK dalmatian_kK__dj_idle_f34 | stand_f34__dalmatian | IoU 0.52 하위 8%|dalmatian_kK__dj_idle_front | stand_front | IoU 0.49 하위 0%|dalmatian_kK__dj_idle_q34 | stand_q34__dalmatian | IoU 0.56 하위 54%|dalmatian_kK__dj_idle_side | stand_side__g-pointer | IoU 0.59 하위 30%|
